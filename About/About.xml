@@ -2,7 +2,9 @@
 <ModMetaData>
 	<name>Hello, World</name>
 	<author>AngleWyrm</author>
-	<packageId>AngleWyrm.HelloWorld</packageId> <!-- common practice to use author name as a namespace in which the mod resides -->
+	<packageId>AngleWyrm.HelloWorld</packageId> <!-- common practice to use author name as a namespace in which the mod resides
+													 This helps avoid name collision issues
+												 -->
 
 	<description>Mod development example</description> <!-- appears in mod list -->
 
