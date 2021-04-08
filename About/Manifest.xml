@@ -1,5 +1,5 @@
 <Manifest>
-    <identifier>AngleWyrm.MoreBlueprints</identifier>
+    <identifier>AngleWyrm.HelloWorld</identifier>
     <!-- 
         Using date of release as version number communicates more useful information 
         than the v1.1.001 style version numbering, and dispenses with the waste of time that is
@@ -7,9 +7,9 @@
 
         For multiple releases during the same day, append another digit: 2021.3.27.1
     -->
-    <version>2021.3.27</version> 
+    <version>2021.4.7</version> 
 
     <!-- These links trigger the new version available alert in Mod Manager -->
-    <manifestUri>https://raw.githubusercontent.com/AngleWyrm10/MoreBlueprints/master/About/Manifest.xml</manifestUri>
-    <downloadUri>https://github.com/AngleWyrm10/MoreBlueprints/releases/latest</downloadUri>    
+    <manifestUri>https://raw.githubusercontent.com/AngleWyrm10/HelloWorld/master/About/Manifest.xml</manifestUri>
+    <downloadUri>https://github.com/AngleWyrm10/HelloWorld/releases/latest</downloadUri>    
 </Manifest>
