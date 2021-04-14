@@ -7,7 +7,7 @@
   <description>Mod development example</description> <!-- appears in mod list -->
 
   <supportedVersions>
-    <!-- used by version check warning, and appears in Steam workshop as a version compatibility tag -->
+    <!-- used by version check warning -->
     <li>1.2</li>
   </supportedVersions>
 
