@@ -9,7 +9,7 @@
     -->
   <version>2021.4.7</version>
 
-  <!-- These links trigger the new version available alert in Mod Manager -->
+  <!-- These links wire up the new version available alert in Mod Manager -->
   <manifestUri>https://raw.githubusercontent.com/AngleWyrm10/HelloWorld/master/About/Manifest.xml</manifestUri>
   <downloadUri>https://github.com/AngleWyrm10/HelloWorld/releases/latest</downloadUri>
 </Manifest>
